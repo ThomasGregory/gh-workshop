@@ -1,0 +1,16 @@
+# Normalise line endings so Windows and macOS users see the same diffs.
+* text=auto
+
+# Always LF for scripts and data, even when checked out on Windows.
+*.py   text eol=lf
+*.R    text eol=lf
+*.sh   text eol=lf
+*.csv  text eol=lf
+*.md   text eol=lf
+
+# Binary files: never touch, never diff as text.
+*.png  binary
+*.jpg  binary
+*.pdf  binary
+*.xlsx binary
+*.docx binary

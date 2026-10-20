@@ -1,0 +1,7 @@
+sample_id,site,date,temperature_c,rainfall_mm
+S001,north,2026-06-01,14.2,3.1
+S002,north,2026-06-08,15.8,0.0
+S003,north,2026-06-15,17.1,7.4
+S004,south,2026-06-01,16.9,1.2
+S005,south,2026-06-08,18.3,0.0
+S006,south,2026-06-15,19.6,4.8
