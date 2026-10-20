@@ -11,6 +11,7 @@ Nothing in here matters, so break it freely.
 | `data/` | Small example datasets (CSV) |
 | `analysis/` | Scripts that read `data/` and print results |
 | `notes/` | Free-text notes in Markdown |
+| `paper/` | A short LaTeX paper (`main.tex`) |
 
 ## Running the example
 

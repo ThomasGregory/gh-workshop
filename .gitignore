@@ -24,3 +24,15 @@ __pycache__/
 
 # Outputs: regenerate rather than commit
 output/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+paper/*.pdf

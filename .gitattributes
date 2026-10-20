@@ -14,3 +14,7 @@
 *.pdf  binary
 *.xlsx binary
 *.docx binary
+
+# LaTeX sources
+*.tex  text eol=lf
+*.bib  text eol=lf
